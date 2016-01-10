@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<title>Project</title>
+	<meta name="description" content="" />
+
+	<meta name="HandheldFriendly" content="True" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<link rel="stylesheet" type="text/css" href="assets/css/dependencies.css?v=53b9d2716c" />
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css?v=53b9d2716c" />
+	
+
+	<link rel="canonical" href="project" />
+    <meta name="referrer" content="origin" />
+    <meta name="generator" content="Ghost 0.7" />
+    <link rel="alternate" type="application/rss+xml" title="BETTER FROM ZERO" href="rss/index.html" />
+</head>
+
+<body class="post-template page-template page">
+	<section id="wrapper">
+		<div id="ajax-container">
+			<nav id="nav" class="nav">
+				<div class="nav-logo">
+					<a href="index.html">
+						<img src="content/images/2016/01/title.png" alt="Logo" />
+						
+					</a>
+				</div>
+				<div class="nav-menu">
+					
+					<a class="menu" data-action="menu" data-target="menu">
+						<img alt="menu"/>
+					</a>
+				</div>
+			</nav>			
+			
+
+<main class="content" role="main">
+	<div class="inner">
+
+	    <article class="post page">
+			
+			<header class="post-header" style="padding-left: 1.5em;">
+				<h1 class="post-title">Project</h1>
+			</header>
+		
+			<section class="post-content">
+				<p>IT IS PROBABLY BETTER TO START FROM ZERO is a long term curatorial and artistic project taking place in the Window Space, at the Cass Faculty of Art, Architecture and Design, London Metropolitan University from December 2015 to July 2016.</p>
+
+<p>IT IS PROBABLY BETTER TO START FROM ZERO intends to highlight the unfixed position of both artistic and curatorial practices and to assume them as research-based activities, potential nexus for discussion, critique and production. Through working with artists whose body of work functions as an ongoing process, the project aims to stress the growth, complexity and diversification of collaborative practices. The unpredictable state of flux inherent in artistic practice will shape the curatorial activity as a constant ”state of becoming”, as stated by the artist and curator Paul O’Neill. Inspired by the particular properties of the Window Space, the project will also look at the window as a frame of process, exploring the constraints and possibilities of displaying a body of work within these spatial and conceptual boundaries.</p>
+
+<p>Each month, IT IS PROBABLY BETTER TO START FROM ZERO presents an artist using the Window Space as a catalyst to the production and continuity of their own work.</p>
+			</section>
+	
+	
+	    </article>
+    </div>
+
+</main>
+
+			<div id="body-class" style="display: none;" class="post-template page-template page"></div>
+			<footer id="footer">
+				<section class="credits">
+					<span class="credits-theme">Drawn by <a href="https://www.behance.net/aliceprestes" rel="nofollow">Alice Presets</a>, <br> Implementated by <a href="http://filipeuva.com" rel="nofollow">Filipe Uva</a> © 2016</span>
+					<span class="credits-software">Published with <a href="http://ghost.org">Ghost</a></span>
+				</section>
+			</footer>
+			<div id="menu" data-target="menu">
+	<div class="menu-header">
+
+		<a class="menu-close" data-action="menu" data-target="menu"></a>
+	</div>
+	<ul class="menu-list">
+		<li class="menu-list-item">
+			<a class="js-ajax-link js-tag-index home" href="index.html">Home</a>
+		</li>
+		<li class="menu-list-item">
+			<a class="js-ajax-link js-tag-index words" href="tag/words">Words</a>
+		</li>
+		<li class="menu-list-item">
+			<a class="js-ajax-link js-tag-index images" href="tag/images">Images</a>
+		</li>
+		<li class="menu-list-item">
+			<a class="js-ajax-link js-tag-index contact" href="contact">Contact</a>
+		</li>
+		<li class="menu-list-item">
+			<a class="js-ajax-link js-tag-index project" href="project">Project</a>
+		</li>
+		<li class="menu-list-item">
+			<a class="js-ajax-link js-tag-index about-us" href="about-us">About Us</a>
+		</li>
+	</ul>
+</div>
+<div class="overlay"></div>
+		</div>
+	</section>
+	
+	
+	<script type="text/javascript" src="assets/js/dependencies.js?v=53b9d2716c"></script>
+	<script type="text/javascript" src="assets/js/script.js?v=53b9d2716c"></script>
+</body>
+</html>
