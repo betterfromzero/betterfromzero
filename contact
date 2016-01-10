@@ -49,17 +49,17 @@
 			</header>
 		
 			<section class="post-content">
-				<p><a href="mailto:contact@betterfromzero.co.uk" style="display:inline; font-size: 1.0em;" >contact@betterfromzero.co.uk <img src="assets/img/mail.png" style="margin: 0;margin-bottom: 1em; margin-left: 12px;height:30px;display: inline; float: right;" alt="mail" /></a> <br />
+				<p><a target="_blank" href="mailto:contact@betterfromzero.co.uk" style="display:inline; font-size: 1.0em;" >contact@betterfromzero.co.uk <img src="assets/img/mail.png" style="margin: 0;margin-bottom: 1em; margin-left: 12px;height:30px;display: inline; float: right;" alt="mail" /></a> <br />
 <br></p>
 
-<p><a href="https://twitter.com/betterfromzero" style="display:inline; width=100%">@betterfromzero.co.uk <img src="assets/img/twitter.png" style="margin: 0;height:30px;display: inline; float: right;" alt="twitter" /></a> <br />
+<p><a href="https://twitter.com/betterfromzero" style="display:inline; width=100%" target="_blank">@betterfromzero.co.uk <img src="assets/img/twitter.png" style="margin: 0;height:30px;display: inline; float: right;" alt="twitter"  /></a> <br />
 <br></p>
 
-<p><a href="https://www.facebook.com/betterfromzero/?fref=ts">facebook.com/betterfromzero<img src="assets/img/facebook.png" style="margin: 0;height:35px;display: inline; float: right;" alt="facebook" /></a> <br />
+<p><a href="https://www.facebook.com/betterfromzero/?fref=ts" target="_blank">facebook.com/betterfromzero<img src="assets/img/facebook.png" style="margin: 0;height:35px;display: inline; float: right;" alt="facebook" /></a> <br />
 <br> <br />
-<a href="https://www.instagram.com/betterfromzero">@betterfromzero<img src="assets/img/instagram.png" style="margin: 0;height:35px;display: inline; float: right;" alt="instagram" /></a> <br />
+<a href="https://www.instagram.com/betterfromzero" target="_blank">@betterfromzero <img src="assets/img/instagram.png" style="margin: 0;height:35px;display: inline; float: right;" alt="instagram" /></a> <br />
 <br> <br />
-<a href="http://localhost:2368/contact/bettertostartfromzero.tumblr.com">tumblr.com/betterfromzero<img src="assets/img/tumblr.png" style="margin: 0;height:35px;display: inline; float: right;" alt="tumblr" /></a></p>
+<a href="http://www.bettertostartfromzero.tumblr.com" target="_blank">betterfromzero.tumblr.com<img src="assets/img/tumblr.png" style="margin: 0;height:35px;display: inline; float: right;" alt="tumblr" /></a></p>
 			</section>
 	
 	
@@ -71,7 +71,7 @@
 			<div id="body-class" style="display: none;" class="post-template page-template page"></div>
 			<footer id="footer">
 				<section class="credits">
-					<span class="credits-theme">Drawn by <a href="https://www.behance.net/aliceprestes" rel="nofollow">Alice Presets</a>, <br> Implementated by <a href="http://filipeuva.com" rel="nofollow">Filipe Uva</a> © 2016</span>
+					<span class="credits-theme">Drawn by <a href="https://www.behance.net/aliceprestes" rel="nofollow" target="_blank">Alice Presets</a>, <br> Implementated by <a href="http://filipeuva.com" rel="nofollow" target="_blank">Filipe Uva</a> © 2016</span>
 					<span class="credits-software">Published with <a href="http://ghost.org">Ghost</a></span>
 				</section>
 			</footer>
