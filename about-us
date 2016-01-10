@@ -10,8 +10,8 @@
 	<meta name="HandheldFriendly" content="True" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<link rel="stylesheet" type="text/css" href="assets/css/dependencies.css?v=53b9d2716c" />
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css?v=53b9d2716c" />
+	<link rel="stylesheet" type="text/css" href="assets/css/dependencies.css?v=aeaf3fd163" />
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css?v=aeaf3fd163" />
 	
 
 	<link rel="canonical" href="about-us" />
@@ -25,7 +25,7 @@
 		<div id="ajax-container">
 			<nav id="nav" class="nav">
 				<div class="nav-logo">
-					<a href="index.html">
+					<a class="js-ajax-link js-tag-index" href="index.html">
 						<img src="content/images/2016/01/title.png" alt="Logo" />
 						
 					</a>
@@ -108,7 +108,7 @@ is a London-based independent curator and art historian. He graduated in Modern 
 	</section>
 	
 	
-	<script type="text/javascript" src="assets/js/dependencies.js?v=53b9d2716c"></script>
-	<script type="text/javascript" src="assets/js/script.js?v=53b9d2716c"></script>
+	<script type="text/javascript" src="assets/js/dependencies.js?v=aeaf3fd163"></script>
+	<script type="text/javascript" src="assets/js/script.js?v=aeaf3fd163"></script>
 </body>
 </html>
