@@ -10,8 +10,8 @@
 	<meta name="HandheldFriendly" content="True" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<link rel="stylesheet" type="text/css" href="assets/css/dependencies.css?v=53e3152248" />
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css?v=53e3152248" />
+	<link rel="stylesheet" type="text/css" href="assets/css/dependencies.css?v=5f3ce43ad0" />
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css?v=5f3ce43ad0" />
 	
 
 	<link rel="canonical" href="project" />
@@ -101,7 +101,7 @@
 	</section>
 	
 	
-	<script type="text/javascript" src="assets/js/dependencies.js?v=53e3152248"></script>
-	<script type="text/javascript" src="assets/js/script.js?v=53e3152248"></script>
+	<script type="text/javascript" src="assets/js/dependencies.js?v=5f3ce43ad0"></script>
+	<script type="text/javascript" src="assets/js/script.js?v=5f3ce43ad0"></script>
 </body>
 </html>
