@@ -1419,6 +1419,7 @@ position: relative;
     margin: 0.5em;
     max-width: none;
     background: #fff;
+    min-height: 3em;
     box-sizing: border-box;
     transition: all ease-out 0.2s;
     -webkit-transform: scale(1);
@@ -1446,8 +1447,6 @@ position: relative;
     position: relative;
     margin: -2em;
     overflow: hidden;
-    background: #000;
-    height: 100%;
 }
 
 .post-list .post .post-image img{

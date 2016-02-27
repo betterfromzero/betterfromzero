@@ -10,8 +10,8 @@
 	<meta name="HandheldFriendly" content="True" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<link rel="stylesheet" type="text/css" href="../assets/css/dependencies.css?v=536abc771a" />
-	<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=536abc771a" />
+	<link rel="stylesheet" type="text/css" href="../assets/css/dependencies.css?v=2c130f03c4" />
+	<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=2c130f03c4" />
 	
 
 	<link rel="canonical" href="images" />
@@ -46,7 +46,7 @@
 			<nav id="nav" class="nav">
 				<div class="nav-logo">
 					<a class="js-ajax-link js-tag-index" href="../index.html">
-						<img src="../content/images/2016/01/title.png" alt="Logo" />
+						<img src="../content/images/2016/02/title.png" alt="Logo" />
 						
 					</a>
 				</div>
@@ -73,6 +73,36 @@
 		<div class="post-list">
 
 <div id="push">
+
+
+<article class="post tag-images featured">
+	<div class="inner">
+		<a class="post-link js-ajax-link js-tag-index" href="../3-1-ines-marques-installation-shot-right-side/index.html"></a>
+		<figure class="post-image">
+			<a href="../3-1-ines-marques-installation-shot-right-side/index.html"><img src="../content/images/2016/02/-3-1-Ines-Marques---Installation-Shot---Right-Side.jpg" alt="" /></a>
+		</figure>
+	</div>
+</article>
+
+
+<article class="post tag-images featured">
+	<div class="inner">
+		<a class="post-link js-ajax-link js-tag-index" href="../3-1-ines-marques-installation-shot-left-side/index.html"></a>
+		<figure class="post-image">
+			<a href="../3-1-ines-marques-installation-shot-left-side/index.html"><img src="../content/images/2016/02/-3-1-Ines-Marques---Installation-Shot---Left-Side.jpg" alt="" /></a>
+		</figure>
+	</div>
+</article>
+
+
+<article class="post tag-images featured">
+	<div class="inner">
+		<a class="post-link js-ajax-link js-tag-index" href="../3-1-ines-marques-installation-shot-2/index.html"></a>
+		<figure class="post-image">
+			<a href="../3-1-ines-marques-installation-shot-2/index.html"><img src="../content/images/2016/02/-3-1-Ines-Marques---Installation-Shot.jpg" alt="" /></a>
+		</figure>
+	</div>
+</article>
 
 
 <article class="post tag-images featured">
@@ -139,7 +169,7 @@
 	<div class="inner">
 		<a class="post-link js-ajax-link js-tag-index" href="../window-space-image/index.html"></a>
 		<figure class="post-image">
-			<a href="../window-space-image/index.html"><img src="../content/images/2016/01/windowspaceimage.jpg" alt="" /></a>
+			<a href="../window-space-image/index.html"><img src="../content/images/2016/02/windowspaceimage.jpg" alt="" /></a>
 		</figure>
 	</div>
 </article>
@@ -189,7 +219,7 @@
 	</section>
 	
 	
-	<script type="text/javascript" src="../assets/js/dependencies.js?v=536abc771a"></script>
-	<script type="text/javascript" src="../assets/js/script.js?v=536abc771a"></script>
+	<script type="text/javascript" src="../assets/js/dependencies.js?v=2c130f03c4"></script>
+	<script type="text/javascript" src="../assets/js/script.js?v=2c130f03c4"></script>
 </body>
 </html>
