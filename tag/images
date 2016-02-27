@@ -10,8 +10,8 @@
 	<meta name="HandheldFriendly" content="True" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<link rel="stylesheet" type="text/css" href="../assets/css/dependencies.css?v=3d4cbdbe5f" />
-	<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=3d4cbdbe5f" />
+	<link rel="stylesheet" type="text/css" href="../assets/css/dependencies.css?v=536abc771a" />
+	<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=536abc771a" />
 	
 
 	<link rel="canonical" href="images" />
@@ -189,7 +189,7 @@
 	</section>
 	
 	
-	<script type="text/javascript" src="../assets/js/dependencies.js?v=3d4cbdbe5f"></script>
-	<script type="text/javascript" src="../assets/js/script.js?v=3d4cbdbe5f"></script>
+	<script type="text/javascript" src="../assets/js/dependencies.js?v=536abc771a"></script>
+	<script type="text/javascript" src="../assets/js/script.js?v=536abc771a"></script>
 </body>
 </html>
