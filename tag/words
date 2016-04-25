@@ -10,8 +10,8 @@
 	<meta name="HandheldFriendly" content="True" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<link rel="stylesheet" type="text/css" href="../assets/css/dependencies.css?v=e8358aae7c" />
-	<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=e8358aae7c" />
+	<link rel="stylesheet" type="text/css" href="../assets/css/dependencies.css?v=09004de2e1" />
+	<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=09004de2e1" />
 	
 
 	<link rel="canonical" href="words" />
@@ -73,6 +73,20 @@
 		<div class="post-list">
 
 <div id="push">
+
+
+<article class="post tag-words featured">
+	<div class="inner">
+		<a class="post-link js-ajax-link js-tag-index" href="../2-2-juan-crespo/index.html"></a>
+		<h2 class="post-title"><a href="../2-2-juan-crespo/index.html">#2.2 Juan Crespo</a></h2>
+		<div class="post-excerpt"><p>5 May 2016 <br />
+29 May 2016<br></p>
+
+<p><babs style="color: #66666A">(b. 1987, Zaragoza) </babs></p>
+
+</div>
+	</div>
+</article>
 
 
 <article class="post tag-words featured">
@@ -249,7 +263,7 @@ The Atlas Group Archive.
 	</section>
 	
 	
-	<script type="text/javascript" src="../assets/js/dependencies.js?v=e8358aae7c"></script>
-	<script type="text/javascript" src="../assets/js/script.js?v=e8358aae7c"></script>
+	<script type="text/javascript" src="../assets/js/dependencies.js?v=09004de2e1"></script>
+	<script type="text/javascript" src="../assets/js/script.js?v=09004de2e1"></script>
 </body>
 </html>
