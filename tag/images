@@ -10,8 +10,8 @@
 	<meta name="HandheldFriendly" content="True" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<link rel="stylesheet" type="text/css" href="../assets/css/dependencies.css?v=5e55e4c024" />
-	<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=5e55e4c024" />
+	<link rel="stylesheet" type="text/css" href="../assets/css/dependencies.css?v=c241d7f42c" />
+	<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=c241d7f42c" />
 	
 
 	<link rel="canonical" href="images" />
@@ -73,6 +73,36 @@
 		<div class="post-list">
 
 <div id="push">
+
+
+<article class="post tag-images featured">
+	<div class="inner">
+		<a class="post-link js-ajax-link js-tag-index" href="../2-1-juan-crespo-installation-shot-right-side-2/index.html"></a>
+		<figure class="post-image">
+			<a href="../2-1-juan-crespo-installation-shot-right-side-2/index.html"><img src="../content/images/2016/05/-2-2-Juan-Crespo----Installation-Shot---Right-Side.jpg" alt="" /></a>
+		</figure>
+	</div>
+</article>
+
+
+<article class="post tag-images featured">
+	<div class="inner">
+		<a class="post-link js-ajax-link js-tag-index" href="../2-1-juan-crespo-installation-shot-left-side-2/index.html"></a>
+		<figure class="post-image">
+			<a href="../2-1-juan-crespo-installation-shot-left-side-2/index.html"><img src="../content/images/2016/05/-2-2-Juan-Crespo----Installation-Shot---Left-Side.jpg" alt="" /></a>
+		</figure>
+	</div>
+</article>
+
+
+<article class="post tag-images featured">
+	<div class="inner">
+		<a class="post-link js-ajax-link js-tag-index" href="../2-1-juan-crespo-installation-shot-2/index.html"></a>
+		<figure class="post-image">
+			<a href="../2-1-juan-crespo-installation-shot-2/index.html"><img src="../content/images/2016/05/-2-2-Juan-Crespo----Installation-Shot.jpg" alt="" /></a>
+		</figure>
+	</div>
+</article>
 
 
 <article class="post tag-images featured">
@@ -279,7 +309,7 @@
 	</section>
 	
 	
-	<script type="text/javascript" src="../assets/js/dependencies.js?v=5e55e4c024"></script>
-	<script type="text/javascript" src="../assets/js/script.js?v=5e55e4c024"></script>
+	<script type="text/javascript" src="../assets/js/dependencies.js?v=c241d7f42c"></script>
+	<script type="text/javascript" src="../assets/js/script.js?v=c241d7f42c"></script>
 </body>
 </html>
