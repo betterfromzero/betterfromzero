@@ -10,8 +10,8 @@
 	<meta name="HandheldFriendly" content="True" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<link rel="stylesheet" type="text/css" href="../assets/css/dependencies.css?v=1b82609321" />
-	<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=1b82609321" />
+	<link rel="stylesheet" type="text/css" href="../assets/css/dependencies.css?v=75bce16962" />
+	<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=75bce16962" />
 	
 
 	<link rel="canonical" href="words" />
@@ -73,6 +73,20 @@
 		<div class="post-list">
 
 <div id="push">
+
+
+<article class="post tag-words featured">
+	<div class="inner">
+		<a class="post-link js-ajax-link js-tag-index" href="../4-2-lauren-goldie/index.html"></a>
+		<h2 class="post-title"><a href="../4-2-lauren-goldie/index.html">#4.2 Lauren Goldie</a></h2>
+		<div class="post-excerpt"><p>7 July 2016 <br />
+1 August  2016<br></p>
+
+<p><babs style="color: #66666A">(b. 1993, Stockport) </babs></p>
+
+</div>
+	</div>
+</article>
 
 
 <article class="post tag-words featured">
@@ -277,7 +291,7 @@ The Atlas Group Archive.
 	</section>
 	
 	
-	<script type="text/javascript" src="../assets/js/dependencies.js?v=1b82609321"></script>
-	<script type="text/javascript" src="../assets/js/script.js?v=1b82609321"></script>
+	<script type="text/javascript" src="../assets/js/dependencies.js?v=75bce16962"></script>
+	<script type="text/javascript" src="../assets/js/script.js?v=75bce16962"></script>
 </body>
 </html>
