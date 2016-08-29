@@ -10,8 +10,8 @@
 	<meta name="HandheldFriendly" content="True" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<link rel="stylesheet" type="text/css" href="../assets/css/dependencies.css?v=dd0b2af6b7" />
-	<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=dd0b2af6b7" />
+	<link rel="stylesheet" type="text/css" href="../assets/css/dependencies.css?v=1e47d5ac22" />
+	<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=1e47d5ac22" />
 	
 
 	<link rel="canonical" href="images" />
@@ -75,11 +75,11 @@
 <div id="push">
 
 
-<article class="post tag-images">
+<article class="post tag-images featured">
 	<div class="inner">
 		<a class="post-link js-ajax-link js-tag-index" href="../4-2-lauren-goldie-installation-shot-left-side-2/index.html"></a>
 		<figure class="post-image">
-			<a href="../4-2-lauren-goldie-installation-shot-left-side-2/index.html"><img src="https://cdn.rawgit.com/betterfromzero/betterfromzero/gh-pages//content/images/2016/08/-4-2_RightSide1.jpg" alt="" /></a>
+			<a href="../4-2-lauren-goldie-installation-shot-left-side-2/index.html"><img src="https://cdn.rawgit.com/betterfromzero/betterfromzero/gh-pages//content/images/2016/08/-4-2_RightSide1-1.jpg" alt="" /></a>
 		</figure>
 	</div>
 </article>
@@ -89,7 +89,7 @@
 	<div class="inner">
 		<a class="post-link js-ajax-link js-tag-index" href="../4-2-lauren-goldie-installation-shot-left-side/index.html"></a>
 		<figure class="post-image">
-			<a href="../4-2-lauren-goldie-installation-shot-left-side/index.html"><img src="https://cdn.rawgit.com/betterfromzero/betterfromzero/gh-pages//content/images/2016/08/-4-2_LeftSide.jpg" alt="" /></a>
+			<a href="../4-2-lauren-goldie-installation-shot-left-side/index.html"><img src="https://cdn.rawgit.com/betterfromzero/betterfromzero/gh-pages//content/images/2016/08/-4-2_LeftSide-1.jpg" alt="" /></a>
 		</figure>
 	</div>
 </article>
@@ -99,7 +99,7 @@
 	<div class="inner">
 		<a class="post-link js-ajax-link js-tag-index" href="../4-2-lauren-goldie-installation-shot/index.html"></a>
 		<figure class="post-image">
-			<a href="../4-2-lauren-goldie-installation-shot/index.html"><img src="https://cdn.rawgit.com/betterfromzero/betterfromzero/gh-pages//content/images/2016/08/-4-2_InstallationShot.jpg" alt="" /></a>
+			<a href="../4-2-lauren-goldie-installation-shot/index.html"><img src="https://cdn.rawgit.com/betterfromzero/betterfromzero/gh-pages//content/images/2016/08/-4-2_InstallationShot-1.jpg" alt="" /></a>
 		</figure>
 	</div>
 </article>
@@ -369,7 +369,7 @@
 	</section>
 	
 	
-	<script type="text/javascript" src="../assets/js/dependencies.js?v=dd0b2af6b7"></script>
-	<script type="text/javascript" src="../assets/js/script.js?v=dd0b2af6b7"></script>
+	<script type="text/javascript" src="../assets/js/dependencies.js?v=1e47d5ac22"></script>
+	<script type="text/javascript" src="../assets/js/script.js?v=1e47d5ac22"></script>
 </body>
 </html>
