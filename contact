@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link rel="canonical" href="contact" />
+    <meta name="referrer" content="origin" />
+    <meta name="generator" content="Ghost 0.7" />
+    <link rel="alternate" type="application/rss+xml" title="IT IS PROBABLY BETTER TO START FROM ZERO" href="rss/index.html" />
 	<meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
@@ -14,10 +18,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css?v=1e47d5ac22" />
 	
 
-	<link rel="canonical" href="contact" />
-    <meta name="referrer" content="origin" />
-    <meta name="generator" content="Ghost 0.7" />
-    <link rel="alternate" type="application/rss+xml" title="IT IS PROBABLY BETTER TO START FROM ZERO" href="rss/index.html" />
+	
 </head>
 
 <body class="post-template page-template page">
