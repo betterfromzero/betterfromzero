@@ -99,7 +99,7 @@
 	<div class="inner">
 		<a class="post-link js-ajax-link js-tag-index" href="../4-2-lauren-goldie-installation-shot/index.html"></a>
 		<figure class="post-image">
-			<a href="../4-2-lauren-goldie-installation-shot/index.html"><img src="http://localhost:2368/content/images/2016/08/-4-2_InstallationShot-1.jpg" alt="" /></a>
+			<a href="../4-2-lauren-goldie-installation-shot/index.html"><img src="../content/images/2016/08/-4-2_InstallationShot-1.jpg" alt="" /></a>
 		</figure>
 	</div>
 </article>
